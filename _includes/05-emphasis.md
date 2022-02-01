@@ -1,0 +1,4 @@
+- Learning **python**
+- Learning _C_
+- knows *Html*
+- Learning __CSS__
